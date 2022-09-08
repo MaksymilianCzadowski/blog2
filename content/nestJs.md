@@ -1,19 +1,19 @@
 ---
-title: Getting started with Nuxt.js content
-description: Take your bloging to a next level with this tutorial.
-category: coding
+title: Nest.js
+description: Pourquoi Nest.js est un bon framework pour le backend
+category: travail
 tags:
-  - Nuxt.js
-  - Javascript
+- Expérience
+- Travail
 ---
 
-Commodi corporis, dicta dolorem doloribus, eius est eum expedita molestiae placeat 
-recusandae repellat repellendus saepe tempora! Alias aperiam architecto eum eveniet 
-expedita inventore nisi praesentium sequi vero? Culpa, dolorem dolorum enim esse fugiat 
-fugit maiores necessitatibus nulla officia quo, repudiandae, sit veniam vitae. Beatae, 
-corporis deleniti eum ipsa ipsam laudantium molestias necessitatibus odit officia 
-perspiciatis praesentium quam quas quod rem reprehenderit sequi tempora ullam vitae? 
-Architecto aut dolorem esse, maxime obcaecati officiis omnis optio pariatur quod rerum 
+Commodi corporis, dicta dolorem doloribus, eius est eum expedita molestiae placeat
+recusandae repellat repellendus saepe tempora! Alias aperiam architecto eum eveniet
+expedita inventore nisi praesentium sequi vero? Culpa, dolorem dolorum enim esse fugiat
+fugit maiores necessitatibus nulla officia quo, repudiandae, sit veniam vitae. Beatae,
+corporis deleniti eum ipsa ipsam laudantium molestias necessitatibus odit officia
+perspiciatis praesentium quam quas quod rem reprehenderit sequi tempora ullam vitae?
+Architecto aut dolorem esse, maxime obcaecati officiis omnis optio pariatur quod rerum
 similique temporibus totam ullam velit voluptatum? Minima, pariatur possimus!
 
 <!--more-->

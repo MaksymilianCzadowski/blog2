@@ -14,12 +14,12 @@
         </p>
         <v-row>
           <v-col cols="1">
-            <a href="https://www.linkedin.com/in/maksymilian-czadowski/">
+            <a href="https://www.linkedin.com/in/maksymilian-czadowski/" target="blank">
               <v-icon>mdi-linkedin</v-icon>
             </a>
           </v-col>
           <v-col col="1">
-            <a href="https://github.com/MaksymilianCzadowski">
+            <a href="https://github.com/MaksymilianCzadowski" target="blank">
               <v-icon>mdi-github</v-icon>
             </a>
           </v-col>
